@@ -1,2 +1,2 @@
-# Dino_Dash
+# Dino Dash
 A dino game)
